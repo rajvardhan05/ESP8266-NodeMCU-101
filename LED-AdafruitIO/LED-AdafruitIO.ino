@@ -6,15 +6,15 @@
 #define led2           D2
 
 
-#define WLAN_SSID       "Redcyanide"            
-#define WLAN_PASS       "123asdfghjkl321"        
+#define WLAN_SSID       " "            
+#define WLAN_PASS       " "        
 
 /************************* Adafruit.io Setup *********************************/
 
 #define AIO_SERVER      "io.adafruit.com" 
 #define AIO_SERVERPORT  1883                   
-#define AIO_USERNAME    "the_rv"            
-#define AIO_KEY         "aio_fXIY00ozBMUgBOouqplKFjRQzKHG"   
+#define AIO_USERNAME    " "            
+#define AIO_KEY         " "   
 
 //WIFI CLIENT
 WiFiClient client;
